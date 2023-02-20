@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I am an Intern at Brototype<br><br>🧑‍💻 I love using Software as a solution for every Problem<br><br>💻 I am a competitive programmer mainly at Flutter<br><br>🧑‍🎓 I am self taught Flutter developer<br><br>🤓 Always learning new things
+🏫 working as a flutter devaloper on a strtup <br><br>🧑‍💻 I love using Software as a solution for every Problem<br><br>💻 I am a competitive programmer mainly at Flutter<br><br>🧑‍🎓 I am self taught Flutter developer<br><br>🤓 Always learning new things
 
 
 ## 🌐 Socials:
